@@ -1,6 +1,7 @@
 # FrankenPHP and Laravel Octane with Docker + Laravel 11
 
 This repo is a docker boilerplate to use for Laravel projects. Containers included in this docker:
+Inital
 
 1. [Laravel 11](https://laravel.com/docs/)
 2. [FrankenPHP](https://frankenphp.dev/docs/docker/)
